@@ -1,0 +1,25 @@
+service: outly-backend
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-southeast-2
+  environment:
+    MONGODB_URI: mongodb+srv://olihiidikwu:Intercontinental101@outlycluster.u1duf12.mongodb.net/outlyDB?retryWrites=true&w=majority
+
+
+functions:
+  api:
+    handler: server.handler
+    events:
+      - httpApi:
+          path: /{proxy+}
+          method: ANY
+
+plugins:
+  - serverless-offline
+
+package:
+  exclude:
+    - .gitignore
+    - .git/**
