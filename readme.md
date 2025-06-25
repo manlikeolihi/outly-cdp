@@ -1,6 +1,6 @@
 
 
-# 🌐 Outly — Event Discovery Platform (MVP)
+# Outly — Event Discovery Platform (MVP)
 
 Outly is a minimalist, location-focused event discovery platform built as part of my technical portfolio to demonstrate full-stack fundamentals, front-end interactivity, and cloud deployment. Inspired by platforms like **Eventbrite**, Outly helps users discover events by category, search location, and join events — all within a clean, user-friendly interface.
 
@@ -8,7 +8,7 @@ This project was developed as part of my **AWS Cloud and Software Engineering tr
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 Frontend hosted on AWS S3 (Static Website):
 
@@ -16,7 +16,7 @@ Frontend hosted on AWS S3 (Static Website):
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Layer         | Technology                                               |
 | ------------- | -------------------------------------------------------- |
@@ -27,14 +27,14 @@ Frontend hosted on AWS S3 (Static Website):
 
 ---
 
-## 🎯 Features Overview
+##  Features Overview
 
-✅ Fully responsive landing page
-✅ Event listing with dynamic filtering by category
-✅ Real-time search by city or event title
-✅ Modal pop-up with detailed event information
-✅ Interactive **Join Event** button with live attendee updates
-✅ Designed for future scalability with backend/API integration
+ Fully responsive landing page
+ Event listing with dynamic filtering by category
+ Real-time search by city or event title
+ Modal pop-up with detailed event information
+ Interactive **Join Event** button with live attendee updates
+ Designed for future scalability with backend/API integration
 
 ---
 
@@ -91,16 +91,16 @@ outly-cdp/
 
 This project reflects my hands-on experience in:
 
-✅ Building front-end interfaces with clean UX principles
-✅ Hosting real projects on AWS infrastructure
-✅ Exploring backend setup (Node.js, MongoDB) for future scalability
-✅ Understanding the software development lifecycle for MVP products
+ Building front-end interfaces with clean UX principles
+ Hosting real projects on AWS infrastructure
+ Exploring backend setup (Node.js, MongoDB) for future scalability
+ Understanding the software development lifecycle for MVP products
 
 Although this version uses static data for demonstration, the structure is designed for easy expansion into a fully functional, database-driven platform.
 
 ---
 
-## 🎓 About Me
+##  About Me
 
 I'm a Software Engineering student with certifications in:
 
@@ -116,7 +116,7 @@ Through Outly, I aimed to apply these technical skills in a real-world project, 
 
 ---
 
-## 📦 How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
 
@@ -131,8 +131,8 @@ cd outly-cdp
 
 ---
 
-## 🌍 Final Thoughts
+##  Final Thoughts
 
 Outly reflects my ambition to build scalable, modern software solutions while learning cloud platforms and front-end development. It's an evolving project — feedback, collaboration, and suggestions are welcome as I continue enhancing it.
 
-=
+
